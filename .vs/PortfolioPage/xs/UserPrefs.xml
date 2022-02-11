@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{228EAC6C-BAA7-4723-AE86-F075EFD316B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.PortfolioPage PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="obj/Release/net6.0/PortfolioPage.AssemblyInfo.cs">
+    <Files>
+      <File FileName="Pages/Index.razor" Line="1" Column="1" />
+      <File FileName="wwwroot/index.html" Line="29" Column="8" />
+      <File FileName="obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" Line="4" Column="12" />
+      <File FileName="obj/Release/net6.0/PortfolioPage.AssemblyInfo.cs" Line="16" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PortfolioPage" expanded="True">
+            <Node name="PortfolioPage" expanded="True">
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
