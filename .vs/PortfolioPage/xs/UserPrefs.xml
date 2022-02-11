@@ -6,11 +6,14 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/index.html">
+    <Files>
+      <File FileName="wwwroot/index.html" Line="31" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PortfolioPage" expanded="True" selected="True">
+          <Node name="PortfolioPage" expanded="True">
             <Node name="PortfolioPage" expanded="True" />
           </Node>
         </State>
