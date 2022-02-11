@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{C80EF8F4-5374-41F1-B590-7FD97D23193B}|Default">
   <MonoDevelop.Ide.ItemProperties.PortfolioPage PreferredExecutionTarget="/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
@@ -11,9 +11,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PortfolioPage" expanded="True" selected="True">
-            <Node name="PortfolioPage" expanded="True">
-              <Node name="wwwroot" expanded="True" />
-            </Node>
+            <Node name="PortfolioPage" expanded="True" />
           </Node>
         </State>
       </Pad>
