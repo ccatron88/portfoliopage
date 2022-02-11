@@ -2,7 +2,7 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background-image: url('images/nightCityLights.jpg');
+    background-image: url('../images/nightCityLights.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
